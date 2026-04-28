@@ -165,7 +165,7 @@ This repository uses **GitHub Actions** for continuous integration. On every pus
 
 ## 👤 Author
 
-**[Your Name]**  
+**[furtuna gebreslassie]**  
 10 Academy — Week 0 Challenge, April 2026  
 Data Engineering / Machine Learning Engineering Track
 
