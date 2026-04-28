@@ -1,23 +1,20 @@
-# 🌍 African Climate Trend Analysis — Week 0 Challenge
+🌍 African Climate Trend Analysis — Week 0 Challenge
+10 Academy | AI Mastery Program | April 2026
 
-**10 Academy | AI Mastery Program | April 2026**
+A comparative and exploratory study of historical climate patterns from 2015 to 2026 across Ethiopia, Kenya, Sudan, Tanzania, and Nigeria, carried out to support Ethiopia’s preparations for hosting COP32 in Addis Ababa in 2027.
 
-An exploratory and comparative analysis of historical climate data (2015–2026) across Ethiopia, Kenya, Sudan, Tanzania, and Nigeria — conducted in support of Ethiopia's preparation to host **COP32** in Addis Ababa, 2027.
+📋 Project Summary
 
----
+This project was undertaken as part of the 10 Academy Week 0 Challenge and includes:
 
-## 📋 Project Overview
+Task 1: Setting up Git, the development environment, and CI/CD workflows
+Task 2: Country-level climate data profiling, cleaning, and exploratory data analysis (EDA)
+Task 3: Comparative assessment and ranking of climate vulnerability across countries
+Bonus: Development of an interactive dashboard using Streamlit
 
-This project was completed as part of the 10 Academy Week 0 Challenge. It encompasses:
-
-- **Task 1**: Git & Environment Setup with CI/CD
-- **Task 2**: Per-country Data Profiling, Cleaning & EDA
-- **Task 3**: Cross-Country Climate Vulnerability Comparison & Ranking
-- **Bonus**: Interactive Streamlit Dashboard
-
-**Data Source**: NASA POWER (Prediction of Worldwide Energy Resources)  
-**Period**: January 2015 – March 2026  
-**Countries**: Ethiopia, Kenya, Sudan, Tanzania, Nigeria
+Data Source: NASA POWER (Prediction of Worldwide Energy Resources)
+Study Period: January 2015 – March 2026
+Countries Analyzed: Ethiopia, Kenya, Sudan, Tanzania, and Nigeria
 
 ---
 
