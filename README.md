@@ -64,7 +64,7 @@ climate-challenge-week0/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/climate-challenge-week0.git
+git clone [https://github.com/<your-username>/climate-challenge-week0.git](https://github.com/Furtunaa/climate_analysis_week0.git)
 cd climate-challenge-week0
 ```
 
